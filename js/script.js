@@ -1,5 +1,5 @@
 const as = () => {
- return console.log(88+"kkkhhhh");
+ return console.log("this is sampl");
 };
 
 // document.querySelector('p').textContent = 'asgjggjg';
